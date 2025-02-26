@@ -24,35 +24,3 @@ valores:
 CNAE:
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-aplicativo em que você coloca os ingredientes que tem em casa e ele procura receitas com os ingredientes que voce tem, evitando desperdicio e ajudando a manter a saude e 
