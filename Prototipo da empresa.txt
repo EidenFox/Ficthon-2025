@@ -1,0 +1,58 @@
+nome: 
+
+logo:
+
+missão:
+	Desenvolver soluções de software inovadoras que atendam às necessidades emergentes garantindo a entrega de produtos de alta qualidade, com foco na excelência técnica e na satisfação do cliente.
+
+visão:
+	
+
+
+
+valores:
+	Inovação: Promover a criatividade e a busca constante por novas soluções tecnológicas.
+	Excelência: Compromisso com a qualidade e a melhoria contínua em todos os aspectos do nosso trabalho.
+	Foco no Cliente: Colocar as necessidades e a satisfação do cliente no centro de tudo o que fazemos.
+	Segurança: Priorizar a proteção dos dados e a privacidade dos nossos clientes.
+
+
+
+
+
+
+CNAE:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aplicativo em que você coloca os ingredientes que tem em casa e ele procura receitas com os ingredientes que voce tem, evitando desperdicio e ajudando a manter a saude e 
