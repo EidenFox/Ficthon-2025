@@ -6,7 +6,7 @@ missão:
 	Desenvolver soluções de software inovadoras que atendam às necessidades emergentes garantindo a entrega de produtos de alta qualidade, com foco na excelência técnica e na satisfação do cliente.
 
 visão:
-	
+	Ser referência em tecnologia de software, oferecendo produtos de alta qualidade que superam as expectativas dos clientes e promovem a inovação contínua
 
 
 
@@ -18,9 +18,9 @@ valores:
 
 
 
-
-
-
 CNAE:
+6202-3/00
+6201-5/01
+6203-1/00
 
 
