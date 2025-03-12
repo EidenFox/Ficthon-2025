@@ -1,5 +1,6 @@
 nome: 
 
+
 logo:
 
 missão:
@@ -22,5 +23,27 @@ CNAE:
 6202-3/00
 6201-5/01
 6203-1/00
+
+
+
+
+# IDEIA DO PROJETO
+
+- Automação para carros:
+
+- sensor no volante para quando o motorista girar o volante ele acender a seta automaticamente.
+
+- sensor na frente para avisar/freiar quando se aproximar de mais de algo
+
+- sensor atraz para avisar com som/luz a distancia do objeto de traz
+ - apito/luz quando se aproximar
+ - apito/luz com maior frequencia quanto mais se aproximar
+ - freiar quando chegar perto de mais
+
+- sensor lateral para avisar caso tenha veiculo do lado para evitar batidas ao trocar de faixa
+
+
+Objetivo:
+- Fazer automatizações de baixo custo reduzindo uso de recursos e aumentando a acessibilidade para integrar elementos que ajudem o motorista e evitem acidentes e ajudem pessoas com deficiencia auditiva por meio de recursos visuais.
 
 
