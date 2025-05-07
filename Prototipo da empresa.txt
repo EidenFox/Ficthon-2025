@@ -49,3 +49,4 @@ Objetivo:
 - Fazer automatizações de baixo custo reduzindo uso de recursos e aumentando a acessibilidade para integrar elementos que ajudem o motorista e evitem acidentes e ajudem pessoas com deficiencia auditiva por meio de recursos visuais.
 
 
+asdasdasdasd
